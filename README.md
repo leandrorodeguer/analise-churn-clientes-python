@@ -43,11 +43,17 @@ Foram analisados fatores como:
 
 ---
 
-## 📊 Visualizações
+## 📊 Principais Visualizações
 
+### 🔹 Antes (Base original)
 - [Churn por tipo de contrato](./imagens/duracao_contrato.html)  
 - [Churn por ligações no call center](./imagens/ligacoes_callcenter.html)  
 - [Churn por dias de atraso](./imagens/dias_atraso.html)  
+
+### 🔹 Depois (Aplicando estratégias)
+- [Churn por tipo de contrato](./imagens/duracao_contrato_filtrado.html)  
+- [Churn por ligações no call center](./imagens/ligacoes_callcenter_filtrado.html)  
+- [Churn por dias de atraso](./imagens/dias_atraso_filtrado.html)  
 
 ---
 
