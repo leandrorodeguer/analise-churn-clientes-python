@@ -54,9 +54,13 @@ Foram analisados fatores como:
 ## 📁 Estrutura do projeto
 
 analise-churn-clientes-python/
+
 ├── data/           # base de dados
+
 ├── imagens/        # gráficos gerados
+
 ├── notebooks/      # análise exploratória
+
 └── README.md       # documentação do projeto
 
 ---
